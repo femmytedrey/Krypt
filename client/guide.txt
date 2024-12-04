@@ -1,0 +1,45 @@
+api key: Aq9gSO9AL6dsrRx37pRA_c6vA9ONjJq5
+sepolia https: https://eth-sepolia.g.alchemy.com/v2/Aq9gSO9AL6dsrRx37pRA_c6vA9ONjJq5
+
+Transactions deployed to: 0x9be4442F0eb6fd766148D80CD52AEc1895B275D5
+
+
+Comment's guide:
+// SPDX License type
+// Solidity version
+
+// Define contract name
+// Purpose: What this contract does
+
+// State variables needed
+// What data needs to be stored permanently
+
+// Events to track important changes
+// What notifications are needed
+
+// Define data structures
+// How to organize complex data
+
+// Access control
+// Who can do what
+
+// Core functions needed
+// Main operations of the contract
+
+// Helper functions
+// Supporting operations
+
+// Getter functions
+// How to retrieve data
+
+// Security checks
+// What to validate
+
+// Error handling
+// How to handle edge cases
+
+// Gas optimization notes
+// Where to optimize
+
+// Integration points
+// External contracts to interact with

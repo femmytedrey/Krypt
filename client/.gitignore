@@ -9,6 +9,8 @@ lerna-debug.log*
 
 # Environment variables file
 .env
+# Guides
+.txt
 
 node_modules
 dist
